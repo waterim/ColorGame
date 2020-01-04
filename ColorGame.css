@@ -1,0 +1,25 @@
+body {
+  background-color: #232323;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#RGB {
+  text-transform: uppercase;
+}
+
+.square {
+  width: 30%;
+  margin: 1.66%;
+  padding-bottom: 30%;
+  float: left;
+  background-color: bisque;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 37.5rem;
+}
